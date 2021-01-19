@@ -21,11 +21,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76281a1b-1231-4a6c-895f-b71853ca9261" name="Default Changelist" comment="обновление">
-      <change afterPath="$PROJECT_DIR$/lesson_6/ex_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_6/ex_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_6/ex_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_6/ex_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_6/ex_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7/ex_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/ex_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_2/ex_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/ex_5.py" afterDir="false" />
     </list>
@@ -45,7 +54,7 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_5" />
+        <entry key="$PROJECT_DIR$" value="lesson_6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,23 +78,24 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson_6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson_8" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Edctn\PycharmProjects\repython\lesson_8" />
+      <recent name="D:\Edctn\PycharmProjects\repython\lesson_7" />
       <recent name="D:\Edctn\PycharmProjects\repython\lesson_6" />
       <recent name="D:\Edctn\PycharmProjects\repython\lesson_5" />
       <recent name="D:\Edctn\PycharmProjects\repython\lesson_4" />
-      <recent name="D:\Edctn\PycharmProjects\repython\lesson_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Edctn\PycharmProjects\repython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_5">
-    <configuration name="ex_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex_3 (1)">
+    <configuration name="ex_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/ex_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/ex_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/ex_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/ex_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/ex_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_7/ex_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex_3 (1)" />
+        <item itemvalue="Python.ex_2 (1)" />
+        <item itemvalue="Python.ex_1 (1)" />
         <item itemvalue="Python.ex_5" />
         <item itemvalue="Python.ex_4" />
-        <item itemvalue="Python.ex_3" />
-        <item itemvalue="Python.ex_2" />
-        <item itemvalue="Python.ex_1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609331956924</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="обновление">
+      <created>1609547457379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609547457379</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
